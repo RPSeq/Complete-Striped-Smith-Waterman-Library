@@ -1,0 +1,6 @@
+*.so
+*.o
+
+src/example_c
+src/example_cpp
+src/ssw_test
